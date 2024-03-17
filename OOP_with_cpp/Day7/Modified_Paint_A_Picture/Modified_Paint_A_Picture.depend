@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700054712 source:d:\it_ labs\oop_with_cpp\day7\modified_paint_a_picture\main.cpp
+	<iostream>
+	<graphics.h>
+	<string.h>
+	<thread>
+	<chrono>
+

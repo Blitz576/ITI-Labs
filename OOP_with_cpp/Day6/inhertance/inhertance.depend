@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699975481 source:d:\it_ labs\oop_with_cpp\day6\inhertance\main.cpp
+	<iostream>
+	"Person.h"
+
+1699975599 d:\it_ labs\oop_with_cpp\day6\inhertance\person.h
+	<cstring>
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699792356 source:d:\it_ labs\oop_with_cpp\day4\stack_new_operators\main.cpp
+	<iostream>
+	<malloc.h>
+

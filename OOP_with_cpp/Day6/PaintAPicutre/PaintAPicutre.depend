@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700050573 source:d:\it_ labs\oop_with_cpp\day6\paintapicutre\main.cpp
+	<iostream>
+	<graphics.h>
+	<string.h>
+	<thread>
+	<chrono>
+

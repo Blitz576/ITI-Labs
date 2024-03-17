@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699961584 source:d:\it_ labs\oop_with_cpp\day5\test\main.cpp
+	<iostream>
+	<graphics.h>
+	<iostream>
+	<thread>
+	<chrono>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+

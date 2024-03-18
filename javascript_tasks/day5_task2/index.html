@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="functions.js"></script>
+    <script src="consume.js"></script>
+    <title>Document</title>
+    <style>
+        .container{
+           width: 1000px;
+           height:1000px;
+        }
+        .one{background-color: red;}
+        .two{background-color:blue;}
+        .three{background-color:green;}
+        .one,.two,.three{
+            display: inline-block;
+            margin-left: 10px;
+            margin-right:10px;
+            margin-bottom: 5px;
+            margin-top:5px;
+            width: 200px;
+            height:200px;
+        }
+        .warn{
+            color: red;
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body>
+    <p class="warn">sorry, you can't add choose another one</p>
+    <div class="container">
+        <span class="one"></span>
+        <span class="two"></span>
+        <span class="three"></span>
+    </div>
+
+</body>
+</html>

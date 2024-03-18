@@ -1,0 +1,3 @@
+///Strings
+
+var firstVar="Hello";

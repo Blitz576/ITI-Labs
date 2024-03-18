@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "ISBN": "1234567890123",
+      "name": "The C Programming Language",
+      "category": "Embedded Systems",
+      "price": 280,
+      "pages": 250,
+      "stock": 15,
+      "author": "John Doe",
+      "id": "7770"
+    },
+    {
+      "ISBN": "1234567890124",
+      "name": "Eloquent JavaScript",
+      "category": "Frontend",
+      "price": 120,
+      "pages": 350,
+      "stock": 8,
+      "author": "John Doe",
+      "id": "5614"
+    },
+    {
+      "ISBN": "1234567890125",
+      "name": "The Complete Book on Angular",
+      "category": "Frontend",
+      "price": 100,
+      "pages": 560,
+      "stock": 10,
+      "author": "John Doe",
+      "id": "7e3a"
+    },
+    {
+      "ISBN": "1234567890126",
+      "name": "Head First Java",
+      "category": "Backend",
+      "price": 150,
+      "pages": 700,
+      "stock": 25,
+      "author": "John Doe",
+      "id": "441a"
+    },
+    {
+      "ISBN": "1234567890127",
+      "name": "Node.js in Action",
+      "category": "Backend",
+      "price": 200,
+      "pages": 480,
+      "stock": 13,
+      "author": "John Doe",
+      "id": "5cf7"
+    },
+    {
+      "ISBN": "1234567890128",
+      "name": "Full Stack React",
+      "category": "Frontend",
+      "price": 140,
+      "pages": 550,
+      "stock": 14,
+      "author": "John Doe",
+      "id": "cf64"
+    },
+    {
+      "ISBN": "1234567890129",
+      "name": "Vue.js in Action",
+      "category": "Frontend",
+      "price": 180,
+      "pages": 490,
+      "stock": 5,
+      "author": "John Doe",
+      "id": "d157"
+    },
+    {
+      "ISBN": "1234567890130",
+      "name": "Programming Python",
+      "category": "Data Science",
+      "price": 220,
+      "pages": 200,
+      "stock": 9,
+      "author": "John Doe",
+      "id": "c78b"
+    },
+    {
+      "ISBN": "1234567890131",
+      "name": "C# in a Nutshell",
+      "category": "Backend",
+      "price": 300,
+      "pages": 360,
+      "stock": 10,
+      "author": "John Doe",
+      "id": "fb24"
+    },
+    {
+      "id": "5866",
+      "ISBN": "1234567891052",
+      "name": "Shaeleigh Mendez",
+      "category": "Embedded Systems",
+      "pages": 197,
+      "price": 295,
+      "author": "Sydney Barr",
+      "stock": 58
+    }
+  ]
+}
